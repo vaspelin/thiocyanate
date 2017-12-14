@@ -6,5 +6,4 @@ of the course "Reproducible and Interactive Data Science".
 ## Tasks
 
 1. When done, upload your project notebook to this repository
-2. Invite your two designated referees as collaboratoes (see Settings menu)
-3. The referees will write their report by opening a Github _issue_. Remember to consider the [project criteria](http://github.com/mlund/jupyter-course) when writing your reports.
+3. Your two referees will write their report in a Github _issue_. When refereeing, remember to consider the [project criteria](http://github.com/mlund/jupyter-course).
