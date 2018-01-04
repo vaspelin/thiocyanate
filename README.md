@@ -1,13 +1,15 @@
-# Project Work for Reproducible and Interactive Data Science
+# A forcefield parametrization of NaSCN and KSCN 
 
-This is an empty repository for the project work
-of the course "Reproducible and Interactive Data Science".
+Ionic parameters appearing in the Lennard-Jones potential are optimized to reproduce thermodynamic properties obtained from experiments.
 
-## Tasks
+## Running the Jupyter notebook
 
-1. Upload your project notebook to this repository. For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
-2. Notify your referees via email that your notebook is ready to be checked
-3. Your two referees will file their reports as Github _issues_ on your project's Github page. When refereeing, remember to consider the [project criteria](http://github.com/mlund/jupyter-course) and try to give constructive feedback that will improve the notebook.
+1. Install miniconda3 or anaconda3 on your computer.
+2. Download the repository by downloading it directly, or by typing the following in a terminal:
+- git clone https://github.com/teokem/project-work-vaspelin/
+3. When you are in the folder that you just downloaded, activate the environment by typing the following in a terminal:
+- conda env create -f environment.yml 
+- source activate analysis
 
 ## Note
 
