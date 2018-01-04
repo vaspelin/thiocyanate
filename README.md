@@ -14,5 +14,9 @@ git clone https://github.com/teokem/project-work-vaspelin/
 conda env create -f environment.yml
 source activate analysis
 ```
-4. Run the project by opening the Jupyter notebook `project_updated.ipynb` and running the cells. 
+4. Run the project by opening the Jupyter notebook `project_updated.ipynb` typing:
+```bash
+jupyter notebook project_updated.ipynb 
+```
+in a terminal, and run the cells. 
 
