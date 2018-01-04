@@ -12,6 +12,7 @@ Ionic parameters appearing in the Lennard-Jones potential are optimized to repro
 3. When you are in the folder that you just downloaded, activate the environment by typing the following in a terminal:
 
 `conda env create -f environment.yml` 
+
 `source activate analysis`
 
 ## Note
