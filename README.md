@@ -1,8 +1,12 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=project_updated.ipynb)
+
 # A forcefield parametrization of NaSCN and KSCN 
 
 Ionic parameters appearing in the Lennard-Jones potential are optimized to reproduce thermodynamic properties obtained from experiments.
 
 ## Running the Jupyter notebook
+To run the notebook, you can either access it on mybinder where everything required is provided by clicking [here](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=project_updated.ipynb), or, follow the following instructions:
+
 
 1. Install miniconda3 or anaconda3 on your computer.
 2. Download the repository by downloading it directly, or by typing the following in a terminal:
@@ -19,4 +23,6 @@ source activate analysis
 jupyter notebook project_updated.ipynb 
 ```
 5. Reproduce the study by running the cells in the notebook.
+
+
 
