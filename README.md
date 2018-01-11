@@ -25,6 +25,6 @@ jupyter notebook scn_si.ipynb
 5. Reproduce the study by running the cells in the notebook.
 
 ## Running the Jupyter notebook performing simulations
-To run this notebook, do steps 1-3 above if not already done. Then run the notebook `scn_si_sim.ipynb`. You may need to install some additional packages to run it properly.  
+To run this notebook, do steps 1-2 above if not already done. Then run the notebook `scn_si_sim.ipynb`. You may need to install some additional packages to run it properly.  
 
 
