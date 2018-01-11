@@ -5,7 +5,7 @@
 Ionic parameters appearing in the Lennard-Jones potential are optimized to reproduce thermodynamic properties obtained from experiments.
 
 ## Running the Jupyter notebook
-To run the notebook, you can either access it on mybinder where everything required is provided by clicking [here](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=scn_si.ipynb), or, follow the following instructions:
+To run the notebook, follow the following instructions:
 
 
 1. Install miniconda3 or anaconda3 on your computer.
