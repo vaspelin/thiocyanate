@@ -4,8 +4,8 @@
 
 Ionic parameters appearing in the Lennard-Jones potential are optimized to reproduce thermodynamic properties obtained from experiments.
 
-## Running the Jupyter notebook
-To run the notebook, you can either access it on mybinder where everything required is provided by clicking [here](https://mybinder.org/v2/gh/vaspelin/thiocyanate/master?filepath=scn_si.ipynb), or, follow the following instructions:
+## Running the Jupyter notebook performing the analysis (files provided)
+To run the notebook, follow the following instructions:
 
 
 1. Install miniconda3 or anaconda3 on your computer.
@@ -24,5 +24,7 @@ jupyter notebook scn_si.ipynb
 ```
 5. Reproduce the study by running the cells in the notebook.
 
+## Running the Jupyter notebook performing simulations
+To run this notebook, do steps 1-2 above if not already done. Then run the notebook `scn_si_sim.ipynb`. You may need to install some additional packages to run it properly.  
 
 
